@@ -1,0 +1,1 @@
+only anime wallpaper 
