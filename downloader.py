@@ -26,7 +26,7 @@ while True:
         else:
             print("site offline")
     else:
-        print("non è un link")
+        print("not a link")
 
 while True:
     path=input("select a path or digit ?path for create a new one or ++ for use current dir:")
@@ -109,4 +109,4 @@ for x in delete_file:
 
 
 
-input("finito")
+input("finish")
